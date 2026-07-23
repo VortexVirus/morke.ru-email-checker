@@ -1,8 +1,60 @@
+received captcha: <module 'code' from '/usr/lib/python3.14/code.py'>
+entering login()
+========== LOGIN RESPONSE ==========
+http://6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion/src/redirect.php
+200
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="x-dns-prefetch-control" content="off">
+<link rel="shortcut icon" href="/favicon.ico" /><script type="text/javascript" language="JavaScript">
+<!--
+if (self != top) { try { if (document.domain != top.document.domain) { throw "Clickjacking security violation! Please log out immediately!"; /* this code should never execute - exception should already have been thrown since it's a security violation in this case to even try to access top.document.domain (but it's left here just to be extra safe) */ } } catch (e) { self.location = "/src/signout.php"; top.location = "/src/signout.php" } }
+// -->
+</script>
+
+<title>SquirrelMail - You entered invalid letters.</title>
+<!--[if IE 6]>
+<style type="text/css">
+/* avoid stupid IE6 bug with frames and scrollbars */
+body {
+    width: expression(document.documentElement.clientWidth - 30);
+}
+</style>
+<![endif]-->
+
+</head>
+
+<body text="#000000" bgcolor="#ffffff" link="#0000cc" vlink="#0000cc" alink="#0000cc">
+
+<center><img src="../images/sm_logo.png" alt="SquirrelMail Logo" width="308" height="111" /><br />
+<small>SquirrelMail version <br />By the SquirrelMail Project Team<br /></small>
+<table cellspacing="1" cellpadding="0" bgcolor="#800000" width="70%"><tr><td><table width="100%" border="0" bgcolor="#ffffff" align="center"><tr><td bgcolor="#dcdcdc" align="center"><font color="#cc0000"><b>ERROR</b></font></td></tr><tr><td align="center">You entered invalid letters.</td></tr><tr><td bgcolor="#dcdcdc" align="center"><font color="#cc0000"><b><a href="/src/login.php" target="_top">Go to the login page</a></b></font></td></tr></table></td></tr></table></center><!-- logout_error --></body></html>
+====================================
+==== logged_in() ====
+URL: http://6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion/src/right_main.php?mailbox=INBOX
+Status: 200
+Cookies: {'SQMSESSID': 'ugd2arh7mvq8cdfi3g1d698iiu'}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="x-dns-prefetch-control" content="off">
+<link rel="shortcut icon" href="/favicon.ico" /><script type="text/javascript" language="JavaScript">
+<!--
+if (self != top) { try { if (document.domain != top.document.domain) { throw "Clickjacking security violation! Please log out immediately!"; /* this code should never execute - exception should already have b
+=====================
+login() returned False
 MAIN STARTED
 ==== logged_in() ====
 URL: http://6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion/src/right_main.php?mailbox=INBOX
 Status: 200
-Cookies: {'SQMSESSID': '9jv8d0v9imfp6iufr639i5pmmt'}
+Cookies: {'SQMSESSID': 'ugd2arh7mvq8cdfi3g1d698iiu'}
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
 <html>
@@ -17,7 +69,7 @@ if (self != top) { try { if (document.domain != top.document.domain) { throw "Cl
 ==== logged_in() ====
 URL: http://6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion/src/right_main.php?mailbox=INBOX
 Status: 200
-Cookies: {'SQMSESSID': '9jv8d0v9imfp6iufr639i5pmmt'}
+Cookies: {'SQMSESSID': 'ugd2arh7mvq8cdfi3g1d698iiu'}
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
 <html>

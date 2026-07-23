@@ -1,14 +1,3 @@
-"""
-squirrelmail.py
-
-Handles:
-- Tor HTTP session
-- Cookie persistence
-- Login
-- CAPTCHA download
-- Inbox parsing
-"""
-
 import pickle
 import re
 from dataclasses import dataclass

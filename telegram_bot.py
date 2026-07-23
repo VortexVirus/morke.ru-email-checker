@@ -170,7 +170,6 @@ class TelegramInterface:
             return
 
         self.captcha_future.set_result(
-            print("captcha done"),
             context.args[0]
 
 
